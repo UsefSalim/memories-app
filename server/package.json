@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "memories app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UsefSalim/memories-app.git"
+  },
+  "keywords": [
+    "mern"
+  ],
+  "author": "Salim Youssef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UsefSalim/memories-app/issues"
+  },
+  "homepage": "https://github.com/UsefSalim/memories-app#readme"
+}
